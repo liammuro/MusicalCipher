@@ -1,0 +1,246 @@
+play 72, amp: 1 ## 'H'
+sleep 1 
+play 105, amp: 1 ## 'i'
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 69, amp: 1 ## 'E'
+sleep 1 
+play 108, amp: 1 ## 'l'
+sleep 1 
+play 108, amp: 1 ## 'l'
+sleep 1 
+play 101, amp: 1 ## 'e'
+sleep 1 
+play 114, amp: 1 ## 'r'
+sleep 1 
+play 121, amp: 1 ## 'y'
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 38, amp: 1 ## '&'
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 74, amp: 1 ## 'J'
+sleep 1 
+play 97, amp: 1 ## 'a'
+sleep 1 
+play 109, amp: 1 ## 'm'
+sleep 1 
+play 101, amp: 1 ## 'e'
+sleep 1 
+play 115, amp: 1 ## 's'
+sleep 1 
+play 33, amp: 1 ## '!'
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 10, amp: 1 ## '\n'
+sleep 1 
+play 10, amp: 1 ## '\n'
+sleep 1 
+play 72, amp: 1 ## 'H'
+sleep 1 
+play 111, amp: 1 ## 'o'
+sleep 1 
+play 119, amp: 1 ## 'w'
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 97, amp: 1 ## 'a'
+sleep 1 
+play 114, amp: 1 ## 'r'
+sleep 1 
+play 101, amp: 1 ## 'e'
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 121, amp: 1 ## 'y'
+sleep 1 
+play 111, amp: 1 ## 'o'
+sleep 1 
+play 117, amp: 1 ## 'u'
+sleep 1 
+play 63, amp: 1 ## '?'
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 72, amp: 1 ## 'H'
+sleep 1 
+play 111, amp: 1 ## 'o'
+sleep 1 
+play 119, amp: 1 ## 'w'
+sleep 1 
+play 39, amp: 1 ## '''
+sleep 1 
+play 115, amp: 1 ## 's'
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 66, amp: 1 ## 'B'
+sleep 1 
+play 101, amp: 1 ## 'e'
+sleep 1 
+play 110, amp: 1 ## 'n'
+sleep 1 
+play 100, amp: 1 ## 'd'
+sleep 1 
+play 63, amp: 1 ## '?'
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 87, amp: 1 ## 'W'
+sleep 1 
+play 104, amp: 1 ## 'h'
+sleep 1 
+play 97, amp: 1 ## 'a'
+sleep 1 
+play 116, amp: 1 ## 't'
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 97, amp: 1 ## 'a'
+sleep 1 
+play 114, amp: 1 ## 'r'
+sleep 1 
+play 101, amp: 1 ## 'e'
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 121, amp: 1 ## 'y'
+sleep 1 
+play 111, amp: 1 ## 'o'
+sleep 1 
+play 117, amp: 1 ## 'u'
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 100, amp: 1 ## 'd'
+sleep 1 
+play 111, amp: 1 ## 'o'
+sleep 1 
+play 105, amp: 1 ## 'i'
+sleep 1 
+play 110, amp: 1 ## 'n'
+sleep 1 
+play 103, amp: 1 ## 'g'
+sleep 1 
+play 63, amp: 1 ## '?'
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 65, amp: 1 ## 'A'
+sleep 1 
+play 110, amp: 1 ## 'n'
+sleep 1 
+play 110, amp: 1 ## 'n'
+sleep 1 
+play 111, amp: 1 ## 'o'
+sleep 1 
+play 121, amp: 1 ## 'y'
+sleep 1 
+play 105, amp: 1 ## 'i'
+sleep 1 
+play 110, amp: 1 ## 'n'
+sleep 1 
+play 103, amp: 1 ## 'g'
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 65, amp: 1 ## 'A'
+sleep 1 
+play 117, amp: 1 ## 'u'
+sleep 1 
+play 110, amp: 1 ## 'n'
+sleep 1 
+play 116, amp: 1 ## 't'
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 69, amp: 1 ## 'E'
+sleep 1 
+play 108, amp: 1 ## 'l'
+sleep 1 
+play 105, amp: 1 ## 'i'
+sleep 1 
+play 115, amp: 1 ## 's'
+sleep 1 
+play 97, amp: 1 ## 'a'
+sleep 1 
+play 98, amp: 1 ## 'b'
+sleep 1 
+play 101, amp: 1 ## 'e'
+sleep 1 
+play 116, amp: 1 ## 't'
+sleep 1 
+play 104, amp: 1 ## 'h'
+sleep 1 
+play 44, amp: 1 ## ','
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 73, amp: 1 ## 'I'
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 104, amp: 1 ## 'h'
+sleep 1 
+play 111, amp: 1 ## 'o'
+sleep 1 
+play 112, amp: 1 ## 'p'
+sleep 1 
+play 101, amp: 1 ## 'e'
+sleep 1 
+play 46, amp: 1 ## '.'
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 84, amp: 1 ## 'T'
+sleep 1 
+play 97, amp: 1 ## 'a'
+sleep 1 
+play 107, amp: 1 ## 'k'
+sleep 1 
+play 101, amp: 1 ## 'e'
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 67, amp: 1 ## 'C'
+sleep 1 
+play 97, amp: 1 ## 'a'
+sleep 1 
+play 114, amp: 1 ## 'r'
+sleep 1 
+play 101, amp: 1 ## 'e'
+sleep 1 
+play 33, amp: 1 ## '!'
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 10, amp: 1 ## '\n'
+sleep 1 
+play 10, amp: 1 ## '\n'
+sleep 1 
+play 66, amp: 1 ## 'B'
+sleep 1 
+play 101, amp: 1 ## 'e'
+sleep 1 
+play 115, amp: 1 ## 's'
+sleep 1 
+play 116, amp: 1 ## 't'
+sleep 1 
+play 44, amp: 1 ## ','
+sleep 1 
+play 32, amp: 2 ## ' '
+sleep 2 
+play 10, amp: 1 ## '\n'
+sleep 1 
+play 76, amp: 1 ## 'L'
+sleep 1 
+play 105, amp: 1 ## 'i'
+sleep 1 
+play 97, amp: 1 ## 'a'
+sleep 1 
+play 109, amp: 1 ## 'm'
+sleep 1 
